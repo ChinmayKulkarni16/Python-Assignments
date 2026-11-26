@@ -1,2 +1,2 @@
 # Python-Assignments
-Python programming assignments 1-7 with Jupyter notebooks, outputs and datasets.
+Python programming assignments 1-7 with Jupyter notebooks, outputs and datasets and Python Mini Project.
