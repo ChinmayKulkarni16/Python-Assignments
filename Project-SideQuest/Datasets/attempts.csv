@@ -1,0 +1,302 @@
+timestamp,player,difficulty,score,total,percentage,total_time_sec,subject
+2026-11-24 09:23:02,Amey Inamdar,easy,9,10,90.0,35.4,Mixed
+2026-11-24 09:25:01,Aarav Sharma,easy,7,10,70,35.1,Biology
+2026-11-24 09:25:02,Aditi Patel,easy,4,10,40,35.2,Biology
+2026-11-24 09:25:03,Arjun Nair,easy,8,10,80,32.2,Biology
+2026-11-24 09:25:04,Ananya Iyer,easy,7,10,70,35.0,Biology
+2026-11-24 09:25:05,Rohan Gupta,easy,6,10,60,27.3,Biology
+2026-11-24 09:25:06,Priya Reddy,easy,6,10,60,35.5,Biology
+2026-11-24 09:25:07,Kabir Singh,easy,5,10,50,33.9,Biology
+2026-11-24 09:25:08,Meera Joshi,easy,10,10,100,34.5,Biology
+2026-11-24 09:25:09,Vikram Shah,easy,9,10,90,35.7,Biology
+2026-11-24 09:25:10,Ishita Rao,easy,5,10,50,35.0,Biology
+2026-11-24 09:25:11,Aditya Kulkarni,easy,10,10,100,31.1,Biology
+2026-11-24 09:25:12,Kavya Menon,easy,9,10,90,40.6,Biology
+2026-11-24 09:25:13,Rahul Das,easy,4,10,40,34.4,Biology
+2026-11-24 09:25:14,Neha Kapoor,easy,5,10,50,26.8,Biology
+2026-11-24 09:25:15,Siddharth Bose,easy,7,10,70,36.8,Biology
+2026-11-24 09:25:16,Diya Chatterjee,easy,6,10,60,35.6,Biology
+2026-11-24 09:25:17,Karthik Pillai,easy,10,10,100,37.7,Biology
+2026-11-24 09:25:18,Sana Khan,easy,9,10,90,38.5,Biology
+2026-11-24 09:25:19,Devansh Verma,easy,8,10,80,41.4,Biology
+2026-11-24 09:25:20,Pooja Mishra,easy,8,10,80,43.0,Biology
+2026-11-24 09:25:21,Aarav Sharma,easy,9,10,90,35.0,General Knowledge
+2026-11-24 09:25:22,Aditi Patel,easy,9,10,90,41.9,General Knowledge
+2026-11-24 09:25:23,Arjun Nair,easy,5,10,50,42.9,General Knowledge
+2026-11-24 09:25:24,Ananya Iyer,easy,8,10,80,36.8,General Knowledge
+2026-11-24 09:25:25,Rohan Gupta,easy,7,10,70,39.4,General Knowledge
+2026-11-24 09:25:26,Priya Reddy,easy,6,10,60,33.4,General Knowledge
+2026-11-24 09:25:27,Kabir Singh,easy,8,10,80,35.6,General Knowledge
+2026-11-24 09:25:28,Meera Joshi,easy,7,10,70,39.3,General Knowledge
+2026-11-24 09:25:29,Vikram Shah,easy,6,10,60,38.9,General Knowledge
+2026-11-24 09:25:30,Ishita Rao,easy,8,10,80,34.9,General Knowledge
+2026-11-24 09:25:31,Aditya Kulkarni,easy,10,10,100,38.6,General Knowledge
+2026-11-24 09:25:32,Kavya Menon,easy,4,10,40,36.2,General Knowledge
+2026-11-24 09:25:33,Rahul Das,easy,9,10,90,33.1,General Knowledge
+2026-11-24 09:25:34,Neha Kapoor,easy,6,10,60,33.7,General Knowledge
+2026-11-24 09:25:35,Siddharth Bose,easy,10,10,100,35.8,General Knowledge
+2026-11-24 09:25:36,Diya Chatterjee,easy,5,10,50,40.4,General Knowledge
+2026-11-24 09:25:37,Karthik Pillai,easy,5,10,50,36.8,General Knowledge
+2026-11-24 09:25:38,Sana Khan,easy,7,10,70,37.2,General Knowledge
+2026-11-24 09:25:39,Devansh Verma,easy,4,10,40,35.7,General Knowledge
+2026-11-24 09:25:40,Pooja Mishra,easy,10,10,100,37.9,General Knowledge
+2026-11-24 09:25:41,Aarav Sharma,easy,5,10,50,36.1,Geography
+2026-11-24 09:25:42,Aditi Patel,easy,4,10,40,32.2,Geography
+2026-11-24 09:25:43,Arjun Nair,easy,10,10,100,31.7,Geography
+2026-11-24 09:25:44,Ananya Iyer,easy,10,10,100,37.1,Geography
+2026-11-24 09:25:45,Rohan Gupta,easy,9,10,90,34.5,Geography
+2026-11-24 09:25:46,Priya Reddy,easy,5,10,50,36.7,Geography
+2026-11-24 09:25:47,Kabir Singh,easy,6,10,60,38.1,Geography
+2026-11-24 09:25:48,Meera Joshi,easy,5,10,50,34.6,Geography
+2026-11-24 09:25:49,Vikram Shah,easy,6,10,60,33.3,Geography
+2026-11-24 09:25:50,Ishita Rao,easy,6,10,60,36.0,Geography
+2026-11-24 09:25:51,Aditya Kulkarni,easy,4,10,40,33.5,Geography
+2026-11-24 09:25:52,Kavya Menon,easy,7,10,70,36.1,Geography
+2026-11-24 09:25:53,Rahul Das,easy,8,10,80,30.1,Geography
+2026-11-24 09:25:54,Neha Kapoor,easy,7,10,70,36.0,Geography
+2026-11-24 09:25:55,Siddharth Bose,easy,8,10,80,37.2,Geography
+2026-11-24 09:25:56,Diya Chatterjee,easy,10,10,100,35.8,Geography
+2026-11-24 09:25:57,Karthik Pillai,easy,8,10,80,35.5,Geography
+2026-11-24 09:25:58,Sana Khan,easy,9,10,90,38.2,Geography
+2026-11-24 09:25:59,Devansh Verma,easy,9,10,90,34.1,Geography
+2026-11-24 09:26:00,Pooja Mishra,easy,7,10,70,41.8,Geography
+2026-11-24 09:26:01,Aarav Sharma,easy,10,10,100,37.1,Python
+2026-11-24 09:26:02,Aditi Patel,easy,10,10,100,34.5,Python
+2026-11-24 09:26:03,Arjun Nair,easy,8,10,80,37.1,Python
+2026-11-24 09:26:04,Ananya Iyer,easy,4,10,40,35.2,Python
+2026-11-24 09:26:05,Rohan Gupta,easy,7,10,70,33.0,Python
+2026-11-24 09:26:06,Priya Reddy,easy,6,10,60,33.2,Python
+2026-11-24 09:26:07,Kabir Singh,easy,6,10,60,35.5,Python
+2026-11-24 09:26:08,Meera Joshi,easy,7,10,70,40.0,Python
+2026-11-24 09:26:09,Vikram Shah,easy,9,10,90,38.7,Python
+2026-11-24 09:26:10,Ishita Rao,easy,8,10,80,35.5,Python
+2026-11-24 09:26:11,Aditya Kulkarni,easy,5,10,50,33.5,Python
+2026-11-24 09:26:12,Kavya Menon,easy,10,10,100,40.7,Python
+2026-11-24 09:26:13,Rahul Das,easy,5,10,50,39.8,Python
+2026-11-24 09:26:14,Neha Kapoor,easy,6,10,60,35.1,Python
+2026-11-24 09:26:15,Siddharth Bose,easy,4,10,40,36.1,Python
+2026-11-24 09:26:16,Diya Chatterjee,easy,8,10,80,35.3,Python
+2026-11-24 09:26:17,Karthik Pillai,easy,7,10,70,36.2,Python
+2026-11-24 09:26:18,Sana Khan,easy,5,10,50,38.9,Python
+2026-11-24 09:26:19,Devansh Verma,easy,9,10,90,37.0,Python
+2026-11-24 09:26:20,Pooja Mishra,easy,9,10,90,33.5,Python
+2026-11-24 09:26:21,Aarav Sharma,medium,7,10,70,73.2,Biology
+2026-11-24 09:26:22,Aditi Patel,medium,8,10,80,64.9,Biology
+2026-11-24 09:26:23,Arjun Nair,medium,6,10,60,57.3,Biology
+2026-11-24 09:26:24,Ananya Iyer,medium,8,10,80,59.1,Biology
+2026-11-24 09:26:25,Rohan Gupta,medium,4,10,40,66.4,Biology
+2026-11-24 09:26:26,Priya Reddy,medium,6,10,60,63.4,Biology
+2026-11-24 09:26:27,Kabir Singh,medium,7,10,70,57.3,Biology
+2026-11-24 09:26:28,Meera Joshi,medium,5,10,50,63.9,Biology
+2026-11-24 09:26:29,Vikram Shah,medium,4,10,40,56.4,Biology
+2026-11-24 09:26:30,Ishita Rao,medium,10,10,100,62.6,Biology
+2026-11-24 09:26:31,Aditya Kulkarni,medium,9,10,90,64.7,Biology
+2026-11-24 09:26:32,Kavya Menon,medium,10,10,100,69.2,Biology
+2026-11-24 09:26:33,Rahul Das,medium,8,10,80,61.9,Biology
+2026-11-24 09:26:34,Neha Kapoor,medium,6,10,60,66.8,Biology
+2026-11-24 09:26:35,Siddharth Bose,medium,7,10,70,60.0,Biology
+2026-11-24 09:26:36,Diya Chatterjee,medium,5,10,50,63.3,Biology
+2026-11-24 09:26:37,Karthik Pillai,medium,9,10,90,57.3,Biology
+2026-11-24 09:26:38,Sana Khan,medium,9,10,90,62.0,Biology
+2026-11-24 09:26:39,Devansh Verma,medium,5,10,50,69.2,Biology
+2026-11-24 09:26:40,Pooja Mishra,medium,10,10,100,61.8,Biology
+2026-11-24 09:26:41,Aarav Sharma,medium,9,10,90,62.9,General Knowledge
+2026-11-24 09:26:42,Aditi Patel,medium,10,10,100,66.4,General Knowledge
+2026-11-24 09:26:43,Arjun Nair,medium,9,10,90,44.5,General Knowledge
+2026-11-24 09:26:44,Ananya Iyer,medium,8,10,80,56.2,General Knowledge
+2026-11-24 09:26:45,Rohan Gupta,medium,5,10,50,59.3,General Knowledge
+2026-11-24 09:26:46,Priya Reddy,medium,6,10,60,62.6,General Knowledge
+2026-11-24 09:26:47,Kabir Singh,medium,10,10,100,62.8,General Knowledge
+2026-11-24 09:26:48,Meera Joshi,medium,7,10,70,65.2,General Knowledge
+2026-11-24 09:26:49,Vikram Shah,medium,8,10,80,67.0,General Knowledge
+2026-11-24 09:26:50,Ishita Rao,medium,10,10,100,66.2,General Knowledge
+2026-11-24 09:26:51,Aditya Kulkarni,medium,7,10,70,59.1,General Knowledge
+2026-11-24 09:26:52,Kavya Menon,medium,4,10,40,53.6,General Knowledge
+2026-11-24 09:26:53,Rahul Das,medium,7,10,70,67.0,General Knowledge
+2026-11-24 09:26:54,Neha Kapoor,medium,6,10,60,66.4,General Knowledge
+2026-11-24 09:26:55,Siddharth Bose,medium,4,10,40,70.0,General Knowledge
+2026-11-24 09:26:56,Diya Chatterjee,medium,8,10,80,60.6,General Knowledge
+2026-11-24 09:26:57,Karthik Pillai,medium,5,10,50,64.1,General Knowledge
+2026-11-24 09:26:58,Sana Khan,medium,5,10,50,55.5,General Knowledge
+2026-11-24 09:26:59,Devansh Verma,medium,9,10,90,55.8,General Knowledge
+2026-11-24 09:27:00,Pooja Mishra,medium,6,10,60,55.3,General Knowledge
+2026-11-24 09:27:01,Aarav Sharma,medium,10,10,100,60.1,Geography
+2026-11-24 09:27:02,Aditi Patel,medium,9,10,90,60.6,Geography
+2026-11-24 09:27:03,Arjun Nair,medium,6,10,60,61.9,Geography
+2026-11-24 09:27:04,Ananya Iyer,medium,9,10,90,55.6,Geography
+2026-11-24 09:27:05,Rohan Gupta,medium,5,10,50,58.0,Geography
+2026-11-24 09:27:06,Priya Reddy,medium,6,10,60,64.9,Geography
+2026-11-24 09:27:07,Kabir Singh,medium,8,10,80,61.3,Geography
+2026-11-24 09:27:08,Meera Joshi,medium,7,10,70,63.5,Geography
+2026-11-24 09:27:09,Vikram Shah,medium,5,10,50,55.5,Geography
+2026-11-24 09:27:10,Ishita Rao,medium,10,10,100,69.0,Geography
+2026-11-24 09:27:11,Aditya Kulkarni,medium,7,10,70,62.5,Geography
+2026-11-24 09:27:12,Kavya Menon,medium,9,10,90,58.3,Geography
+2026-11-24 09:27:13,Rahul Das,medium,7,10,70,66.8,Geography
+2026-11-24 09:27:14,Neha Kapoor,medium,10,10,100,50.7,Geography
+2026-11-24 09:27:15,Siddharth Bose,medium,5,10,50,61.6,Geography
+2026-11-24 09:27:16,Diya Chatterjee,medium,6,10,60,57.0,Geography
+2026-11-24 09:27:17,Karthik Pillai,medium,4,10,40,72.0,Geography
+2026-11-24 09:27:18,Sana Khan,medium,8,10,80,67.8,Geography
+2026-11-24 09:27:19,Devansh Verma,medium,8,10,80,62.2,Geography
+2026-11-24 09:27:20,Pooja Mishra,medium,4,10,40,61.3,Geography
+2026-11-24 09:27:21,Aarav Sharma,medium,7,10,70,61.8,Python
+2026-11-24 09:27:22,Aditi Patel,medium,4,10,40,60.9,Python
+2026-11-24 09:27:23,Arjun Nair,medium,10,10,100,60.6,Python
+2026-11-24 09:27:24,Ananya Iyer,medium,9,10,90,67.9,Python
+2026-11-24 09:27:25,Rohan Gupta,medium,9,10,90,66.3,Python
+2026-11-24 09:27:26,Priya Reddy,medium,6,10,60,66.3,Python
+2026-11-24 09:27:27,Kabir Singh,medium,9,10,90,67.4,Python
+2026-11-24 09:27:28,Meera Joshi,medium,5,10,50,60.8,Python
+2026-11-24 09:27:29,Vikram Shah,medium,5,10,50,65.6,Python
+2026-11-24 09:27:30,Ishita Rao,medium,7,10,70,51.5,Python
+2026-11-24 09:27:31,Aditya Kulkarni,medium,7,10,70,61.8,Python
+2026-11-24 09:27:32,Kavya Menon,medium,8,10,80,62.8,Python
+2026-11-24 09:27:33,Rahul Das,medium,6,10,60,60.6,Python
+2026-11-24 09:27:34,Neha Kapoor,medium,8,10,80,57.8,Python
+2026-11-24 09:27:35,Siddharth Bose,medium,10,10,100,65.0,Python
+2026-11-24 09:27:36,Diya Chatterjee,medium,4,10,40,67.5,Python
+2026-11-24 09:27:37,Karthik Pillai,medium,6,10,60,52.6,Python
+2026-11-24 09:27:38,Sana Khan,medium,8,10,80,61.3,Python
+2026-11-24 09:27:39,Devansh Verma,medium,10,10,100,67.8,Python
+2026-11-24 09:27:40,Pooja Mishra,medium,5,10,50,58.8,Python
+2026-11-24 09:27:41,Aarav Sharma,hard,4,10,40,84.9,Biology
+2026-11-24 09:27:42,Aditi Patel,hard,8,10,80,91.4,Biology
+2026-11-24 09:27:43,Arjun Nair,hard,5,10,50,89.9,Biology
+2026-11-24 09:27:44,Ananya Iyer,hard,7,10,70,80.5,Biology
+2026-11-24 09:27:45,Rohan Gupta,hard,9,10,90,101.8,Biology
+2026-11-24 09:27:46,Priya Reddy,hard,4,10,40,76.0,Biology
+2026-11-24 09:27:47,Kabir Singh,hard,8,10,80,86.9,Biology
+2026-11-24 09:27:48,Meera Joshi,hard,9,10,90,73.2,Biology
+2026-11-24 09:27:49,Vikram Shah,hard,10,10,100,71.5,Biology
+2026-11-24 09:27:50,Ishita Rao,hard,7,10,70,85.5,Biology
+2026-11-24 09:27:51,Aditya Kulkarni,hard,6,10,60,80.5,Biology
+2026-11-24 09:27:52,Kavya Menon,hard,6,10,60,74.8,Biology
+2026-11-24 09:27:53,Rahul Das,hard,5,10,50,74.7,Biology
+2026-11-24 09:27:54,Neha Kapoor,hard,7,10,70,80.9,Biology
+2026-11-24 09:27:55,Siddharth Bose,hard,6,10,60,88.1,Biology
+2026-11-24 09:27:56,Diya Chatterjee,hard,5,10,50,87.7,Biology
+2026-11-24 09:27:57,Karthik Pillai,hard,10,10,100,89.3,Biology
+2026-11-24 09:27:58,Sana Khan,hard,8,10,80,85.2,Biology
+2026-11-24 09:27:59,Devansh Verma,hard,10,10,100,78.4,Biology
+2026-11-24 09:28:00,Pooja Mishra,hard,9,10,90,84.0,Biology
+2026-11-24 09:28:01,Aarav Sharma,hard,6,10,60,63.4,General Knowledge
+2026-11-24 09:28:02,Aditi Patel,hard,7,10,70,80.8,General Knowledge
+2026-11-24 09:28:03,Arjun Nair,hard,8,10,80,82.9,General Knowledge
+2026-11-24 09:28:04,Ananya Iyer,hard,4,10,40,98.8,General Knowledge
+2026-11-24 09:28:05,Rohan Gupta,hard,4,10,40,93.9,General Knowledge
+2026-11-24 09:28:06,Priya Reddy,hard,9,10,90,90.8,General Knowledge
+2026-11-24 09:28:07,Kabir Singh,hard,6,10,60,99.7,General Knowledge
+2026-11-24 09:28:08,Meera Joshi,hard,6,10,60,85.7,General Knowledge
+2026-11-24 09:28:09,Vikram Shah,hard,5,10,50,88.6,General Knowledge
+2026-11-24 09:28:10,Ishita Rao,hard,9,10,90,72.7,General Knowledge
+2026-11-24 09:28:11,Aditya Kulkarni,hard,10,10,100,79.5,General Knowledge
+2026-11-24 09:28:12,Kavya Menon,hard,10,10,100,72.8,General Knowledge
+2026-11-24 09:28:13,Rahul Das,hard,8,10,80,98.1,General Knowledge
+2026-11-24 09:28:14,Neha Kapoor,hard,5,10,50,81.1,General Knowledge
+2026-11-24 09:28:15,Siddharth Bose,hard,9,10,90,84.1,General Knowledge
+2026-11-24 09:28:16,Diya Chatterjee,hard,10,10,100,86.5,General Knowledge
+2026-11-24 09:28:17,Karthik Pillai,hard,7,10,70,81.0,General Knowledge
+2026-11-24 09:28:18,Sana Khan,hard,5,10,50,71.9,General Knowledge
+2026-11-24 09:28:19,Devansh Verma,hard,7,10,70,76.3,General Knowledge
+2026-11-24 09:28:20,Pooja Mishra,hard,8,10,80,87.3,General Knowledge
+2026-11-24 09:28:21,Aarav Sharma,hard,5,10,50,81.7,Geography
+2026-11-24 09:28:22,Aditi Patel,hard,6,10,60,75.7,Geography
+2026-11-24 09:28:23,Arjun Nair,hard,10,10,100,86.0,Geography
+2026-11-24 09:28:24,Ananya Iyer,hard,8,10,80,75.2,Geography
+2026-11-24 09:28:25,Rohan Gupta,hard,8,10,80,78.9,Geography
+2026-11-24 09:28:26,Priya Reddy,hard,6,10,60,95.6,Geography
+2026-11-24 09:28:27,Kabir Singh,hard,7,10,70,88.5,Geography
+2026-11-24 09:28:28,Meera Joshi,hard,5,10,50,87.9,Geography
+2026-11-24 09:28:29,Vikram Shah,hard,4,10,40,79.9,Geography
+2026-11-24 09:28:30,Ishita Rao,hard,10,10,100,87.3,Geography
+2026-11-24 09:28:31,Aditya Kulkarni,hard,7,10,70,92.9,Geography
+2026-11-24 09:28:32,Kavya Menon,hard,10,10,100,82.6,Geography
+2026-11-24 09:28:33,Rahul Das,hard,4,10,40,91.7,Geography
+2026-11-24 09:28:34,Neha Kapoor,hard,6,10,60,81.3,Geography
+2026-11-24 09:28:35,Siddharth Bose,hard,9,10,90,81.1,Geography
+2026-11-24 09:28:36,Diya Chatterjee,hard,7,10,70,84.9,Geography
+2026-11-24 09:28:37,Karthik Pillai,hard,5,10,50,79.4,Geography
+2026-11-24 09:28:38,Sana Khan,hard,9,10,90,86.9,Geography
+2026-11-24 09:28:39,Devansh Verma,hard,9,10,90,88.0,Geography
+2026-11-24 09:28:40,Pooja Mishra,hard,8,10,80,84.8,Geography
+2026-11-24 09:28:41,Aarav Sharma,hard,6,10,60,85.3,Python
+2026-11-24 09:28:42,Aditi Patel,hard,8,10,80,99.0,Python
+2026-11-24 09:28:43,Arjun Nair,hard,5,10,50,82.0,Python
+2026-11-24 09:28:44,Ananya Iyer,hard,10,10,100,86.4,Python
+2026-11-24 09:28:45,Rohan Gupta,hard,4,10,40,85.3,Python
+2026-11-24 09:28:46,Priya Reddy,hard,5,10,50,86.8,Python
+2026-11-24 09:28:47,Kabir Singh,hard,8,10,80,82.8,Python
+2026-11-24 09:28:48,Meera Joshi,hard,7,10,70,80.6,Python
+2026-11-24 09:28:49,Vikram Shah,hard,10,10,100,88.5,Python
+2026-11-24 09:28:50,Ishita Rao,hard,10,10,100,88.5,Python
+2026-11-24 09:28:51,Aditya Kulkarni,hard,9,10,90,74.2,Python
+2026-11-24 09:28:52,Kavya Menon,hard,6,10,60,79.6,Python
+2026-11-24 09:28:53,Rahul Das,hard,9,10,90,90.2,Python
+2026-11-24 09:28:54,Neha Kapoor,hard,8,10,80,86.4,Python
+2026-11-24 09:28:55,Siddharth Bose,hard,9,10,90,91.6,Python
+2026-11-24 09:28:56,Diya Chatterjee,hard,7,10,70,92.7,Python
+2026-11-24 09:28:57,Karthik Pillai,hard,6,10,60,76.1,Python
+2026-11-24 09:28:58,Sana Khan,hard,5,10,50,89.6,Python
+2026-11-24 09:28:59,Devansh Verma,hard,4,10,40,88.2,Python
+2026-11-24 09:29:00,Pooja Mishra,hard,7,10,70,72.8,Python
+2026-11-24 09:31:31,Aarav Sharma,easy,9,10,90,36.7,Mixed
+2026-11-24 09:31:32,Aditi Patel,easy,4,10,40,33.8,Mixed
+2026-11-24 09:31:33,Arjun Nair,easy,6,10,60,33.6,Mixed
+2026-11-24 09:31:34,Ananya Iyer,easy,9,10,90,39.2,Mixed
+2026-11-24 09:31:35,Rohan Gupta,easy,6,10,60,34.4,Mixed
+2026-11-24 09:31:36,Priya Reddy,easy,8,10,80,40.7,Mixed
+2026-11-24 09:31:37,Kabir Singh,easy,8,10,80,38.9,Mixed
+2026-11-24 09:31:38,Meera Joshi,easy,5,10,50,36.7,Mixed
+2026-11-24 09:31:39,Vikram Shah,easy,10,10,100,35.9,Mixed
+2026-11-24 09:31:40,Ishita Rao,easy,5,10,50,37.8,Mixed
+2026-11-24 09:31:41,Aditya Kulkarni,easy,9,10,90,35.2,Mixed
+2026-11-24 09:31:42,Kavya Menon,easy,8,10,80,33.1,Mixed
+2026-11-24 09:31:43,Rahul Das,easy,7,10,70,35.3,Mixed
+2026-11-24 09:31:44,Neha Kapoor,easy,10,10,100,32.9,Mixed
+2026-11-24 09:31:45,Siddharth Bose,easy,7,10,70,40.6,Mixed
+2026-11-24 09:31:46,Diya Chatterjee,easy,5,10,50,33.3,Mixed
+2026-11-24 09:31:47,Karthik Pillai,easy,6,10,60,41.8,Mixed
+2026-11-24 09:31:48,Sana Khan,easy,10,10,100,31.2,Mixed
+2026-11-24 09:31:49,Devansh Verma,easy,4,10,40,34.6,Mixed
+2026-11-24 09:31:50,Pooja Mishra,easy,7,10,70,39.6,Mixed
+2026-11-24 09:31:51,Aarav Sharma,medium,8,10,80,61.9,Mixed
+2026-11-24 09:31:52,Aditi Patel,medium,6,10,60,52.4,Mixed
+2026-11-24 09:31:53,Arjun Nair,medium,9,10,90,54.0,Mixed
+2026-11-24 09:31:54,Ananya Iyer,medium,6,10,60,51.2,Mixed
+2026-11-24 09:31:55,Rohan Gupta,medium,4,10,40,61.8,Mixed
+2026-11-24 09:31:56,Priya Reddy,medium,10,10,100,65.9,Mixed
+2026-11-24 09:31:57,Kabir Singh,medium,7,10,70,57.7,Mixed
+2026-11-24 09:31:58,Meera Joshi,medium,4,10,40,64.1,Mixed
+2026-11-24 09:31:59,Vikram Shah,medium,5,10,50,64.8,Mixed
+2026-11-24 09:32:00,Ishita Rao,medium,9,10,90,60.4,Mixed
+2026-11-24 09:32:01,Aditya Kulkarni,medium,10,10,100,62.6,Mixed
+2026-11-24 09:32:02,Kavya Menon,medium,5,10,50,68.3,Mixed
+2026-11-24 09:32:03,Rahul Das,medium,7,10,70,50.9,Mixed
+2026-11-24 09:32:04,Neha Kapoor,medium,9,10,90,58.3,Mixed
+2026-11-24 09:32:05,Siddharth Bose,medium,10,10,100,62.2,Mixed
+2026-11-24 09:32:06,Diya Chatterjee,medium,8,10,80,61.3,Mixed
+2026-11-24 09:32:07,Karthik Pillai,medium,5,10,50,60.8,Mixed
+2026-11-24 09:32:08,Sana Khan,medium,7,10,70,64.5,Mixed
+2026-11-24 09:32:09,Devansh Verma,medium,6,10,60,54.9,Mixed
+2026-11-24 09:32:10,Pooja Mishra,medium,8,10,80,58.1,Mixed
+2026-11-24 09:32:11,Aarav Sharma,hard,7,10,70,82.6,Mixed
+2026-11-24 09:32:12,Aditi Patel,hard,4,10,40,90.7,Mixed
+2026-11-24 09:32:13,Arjun Nair,hard,8,10,80,92.0,Mixed
+2026-11-24 09:32:14,Ananya Iyer,hard,6,10,60,79.7,Mixed
+2026-11-24 09:32:15,Rohan Gupta,hard,8,10,80,80.2,Mixed
+2026-11-24 09:32:16,Priya Reddy,hard,9,10,90,89.4,Mixed
+2026-11-24 09:32:17,Kabir Singh,hard,8,10,80,90.3,Mixed
+2026-11-24 09:32:18,Meera Joshi,hard,7,10,70,77.3,Mixed
+2026-11-24 09:32:19,Vikram Shah,hard,7,10,70,84.9,Mixed
+2026-11-24 09:32:20,Ishita Rao,hard,5,10,50,76.1,Mixed
+2026-11-24 09:32:21,Aditya Kulkarni,hard,4,10,40,83.6,Mixed
+2026-11-24 09:32:22,Kavya Menon,hard,5,10,50,72.4,Mixed
+2026-11-24 09:32:23,Rahul Das,hard,10,10,100,79.6,Mixed
+2026-11-24 09:32:24,Neha Kapoor,hard,6,10,60,74.5,Mixed
+2026-11-24 09:32:25,Siddharth Bose,hard,10,10,100,87.0,Mixed
+2026-11-24 09:32:26,Diya Chatterjee,hard,5,10,50,72.6,Mixed
+2026-11-24 09:32:27,Karthik Pillai,hard,9,10,90,74.8,Mixed
+2026-11-24 09:32:28,Sana Khan,hard,6,10,60,85.4,Mixed
+2026-11-24 09:32:29,Devansh Verma,hard,10,10,100,79.5,Mixed
+2026-11-24 09:32:30,Pooja Mishra,hard,9,10,90,84.2,Mixed
